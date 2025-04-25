@@ -96,7 +96,7 @@
       "command": "select",
       "target": "id=location",
       "targets": [],
-      "value": "label=Sydney"
+      "value": "label=London"
     }, {
       "id": "248a00db-da25-40e7-a862-01ec09011a8d",
       "comment": "",
